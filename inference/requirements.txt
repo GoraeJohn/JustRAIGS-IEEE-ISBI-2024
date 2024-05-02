@@ -1,6 +1,0 @@
-pillow
-SimpleITK
-imagecodecs
-numpy
-opencv-python-headless
-timm
